@@ -6,10 +6,10 @@ The objective of this initiative is to guide individuals like yourself through t
 
 <h2> Participant Profile </h2>
 Participants in this initiative typically:
-*Embark on the journey of learning coding skills.
-*Engage in one or more online courses related to programming.
-*Feel empowered by their newfound ability to create.
-*Possess a curiosity about the concept of "open source" and how they can participate.
+1. Embark on the journey of learning coding skills.
+2. Engage in one or more online courses related to programming.
+3. Feel empowered by their newfound ability to create.
+4. Possess a curiosity about the concept of "open source" and how they can participate.
 
 Jump right in and fix issues [#1](https://github.com/danthareja/contribute-to-open-source/issues/1).
 
