@@ -1,7 +1,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 
 
-<h1> Open Source Contribution Initiative </h1>h1>
+<h1> Open Source Contribution Initiative </h1>
 The objective of this initiative is to guide individuals like yourself through the process of contributing code to the open source projects hosted on GitHub. Through an interactive experience, you'll gain a practical understanding of the mechanics involved.
 
 <h2> Participant Profile </h2>
